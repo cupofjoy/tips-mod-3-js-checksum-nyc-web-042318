@@ -17,7 +17,7 @@ value; **the checksum is the sum of all of these differences**.
 ### Example
 Here's an example of a spreadsheet:
 
-```
+```js
 var data = [
   [2, 3, 7, 8],
   [0, 1, 3],
@@ -33,7 +33,7 @@ In this example, the spreadsheet's checksum would be `6 + 3 + 7 = 16`.
 
 What's the checksum for the following?
 
-```
+```js
 var data = [
   [409, 194, 207, 470, 178],
   [454, 235, 333, 511, 103],
